@@ -12,7 +12,7 @@ Output is a markdown (.md) file which can be easily converted to a PDF.
 
 ##Icons
 
-![Icons](./Extras/icons.png) 
+![Icons](./Extras/Icons.png) 
 
 ![Adding an Icon](./Extras/Adding Icon.png) 
 
